@@ -13,7 +13,11 @@ Android Studio and Android Emulator
 ------------------------------------------
 JDK Version->    JDK 17 
 
------------------------------------------- Android Emulator
+JDK Step on System Environment Variables (Win11)
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/816b9a34-04fc-4ca4-a369-4d973044c165" />
+
+------------------------------------------ 
 Android Emulator
 
 # Getting Started
