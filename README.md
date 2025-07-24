@@ -1,9 +1,18 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
-The project output (Screenshot)
+The project output (**Screenshot**)
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d955899e-1f9b-4a3b-8346-2c8b9e5cd695" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4d95b006-5934-47fc-a710-71928bd3b785" />
 
+
+
+
+
+------------------------------------------
+JDK Version->    JDK 17 
+
+------------------------------------------ Android Emulator
+Android Emulator
 
 # Getting Started
 
