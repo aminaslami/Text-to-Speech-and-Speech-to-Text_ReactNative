@@ -11,7 +11,7 @@ Android Studio and Android Emulator
 
 
 ------------------------------------------
-JDK Version->    JDK 17 
+**JDK Version:** JDK 17 
 
 JDK Step on System Environment Variables (Win11)
 
