@@ -2,6 +2,8 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 
 The project output (**Screenshot**)
 
+Android Studio and Android Emulator
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4d95b006-5934-47fc-a710-71928bd3b785" />
 
 
